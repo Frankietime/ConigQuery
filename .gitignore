@@ -1,0 +1,5 @@
+ConigQuery/bin/*
+ConigQuery/obj/*
+PublishScripts/*
+packages/*
+.nuget/*
